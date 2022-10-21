@@ -4,8 +4,7 @@
             "name": "Target 1",
             "includePath": [
                 "C:\\Keil_v5\\C51\\INC",
-                "c:\\Users\\86156\\Desktop\\基于51单片机的密码锁设计 液晶\\2-程序(正在)",
-                "C:/Keil_v5/C51/INC/Atmel"
+                "d:\\code\\finger_coded_lock"
             ],
             "defines": [
                 "__C51__",
